@@ -1,1 +1,2 @@
 # HealthcareAnalytics
+Currently I am working to secure data from the clinic I currently work at- Intrepid Spirit Fort Campbell in order to do real time analysis on no-show data and how to improve clinic efficiency on a local level. Due to it being a government entity I am working on how to share the analysis for my project and am hopeful to have that data at a later time. Since I currently cannot disclose that data I will be sharing mock up analysis on a dataset from Kaggle.com along with analysis specific to a region, Philadelphia,PA to be exact. 
