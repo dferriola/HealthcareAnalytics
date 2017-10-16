@@ -4,3 +4,5 @@ I am going to attempt to tell a story about the current status of a region in re
 
 ![alt text]( https://user-images.githubusercontent.com/23061309/31591345-78eb851e-b1e4-11e7-8b23-5852753b6524.png)
 ![alt text](https://user-images.githubusercontent.com/23061309/31591314-1f7f6f86-b1e4-11e7-9b22-1c7f56f4c01f.png)
+![alt text](https://user-images.githubusercontent.com/23061309/31591354-82a10066-b1e4-11e7-96d7-ee4d59bba22f.png)
+![alt text](https://user-images.githubusercontent.com/23061309/31591359-8d676bde-b1e4-11e7-9509-706cad2f877f.png)
