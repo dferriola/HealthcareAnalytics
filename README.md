@@ -7,3 +7,5 @@ I am going to attempt to tell a story about the current status of a region in re
 ![alt text](https://user-images.githubusercontent.com/23061309/31591354-82a10066-b1e4-11e7-96d7-ee4d59bba22f.png)
 ![alt text](https://user-images.githubusercontent.com/23061309/31591359-8d676bde-b1e4-11e7-9509-706cad2f877f.png)
 ![alt text](https://user-images.githubusercontent.com/23061309/31591366-99e1604a-b1e4-11e7-96e6-e1716697aab6.png)
+![alt text](https://user-images.githubusercontent.com/23061309/31591451-7902d4c0-b1e5-11e7-9814-daf676fa6e61.png)
+![alt text](https://user-images.githubusercontent.com/23061309/31591495-d30185ca-b1e5-11e7-94b8-a66d372ce5b7.png)
