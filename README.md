@@ -9,3 +9,8 @@ This exploration is of no show data that is available on Kaggle.com https://www.
 ![alt text](https://user-images.githubusercontent.com/23061309/31591366-99e1604a-b1e4-11e7-96e6-e1716697aab6.png)
 ![alt text](https://user-images.githubusercontent.com/23061309/31591451-7902d4c0-b1e5-11e7-9814-daf676fa6e61.png)
 ![alt text](https://user-images.githubusercontent.com/23061309/31591495-d30185ca-b1e5-11e7-94b8-a66d372ce5b7.png)
+From the OpenDataPhilly initiative it is easy to see where the police force needs to be concentrated in order to increase the efficiency of it's people for public safety. This is the start of the Philadelphia exploration. 
+![alt text](https://user-images.githubusercontent.com/23061309/31674800-5e73b0a4-b328-11e7-9697-87cf6da93d67.jpg)
+![alt text](https://user-images.githubusercontent.com/23061309/31674808-6442434c-b328-11e7-822b-7b94ef2d6b15.jpg)
+![alt text](https://user-images.githubusercontent.com/23061309/31674812-68c03460-b328-11e7-8c2f-06bc0fc01e8e.jpg)
+![alt text](https://user-images.githubusercontent.com/23061309/31674824-6eca3018-b328-11e7-8999-7cd4934f2968.jpg)
